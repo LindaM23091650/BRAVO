@@ -1,2 +1,2 @@
-# BRAVO
-BRAVO_lmari10_Assessment2
+# Lmari10_Ass2_GreyBox
+ Assessment 2 - GreyBox Game Protytpe
